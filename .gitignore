@@ -1,0 +1,10 @@
+bin/
+obj/
+/build_output
+
+*.usr
+*.suo
+*.user
+*Resharper
+_Resharper.TestExtentions/
+tools/Nunit
